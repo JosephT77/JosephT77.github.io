@@ -64,6 +64,7 @@ nav ul li a:hover{
 	transform: scale(1.2);
 }
 .content{
+	display: flex;
 	position: absolute;
 	top: 50%;
 	left: 8%;
@@ -125,7 +126,7 @@ h4{
 	width: 550px;
 }
 .main{
-	width: 1130px;
+	width: 100%;
 	max-width: 95%;
 	margin: 0 auto;
 	display: flex;
@@ -178,7 +179,7 @@ button:hover{
 .title h2{
 	color: white;
 	font-size: 75px;
-	width: 1130px;
+	width: 100%;
 	margin: 30px auto;
 	text-align: center;
 }
