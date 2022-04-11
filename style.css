@@ -11,6 +11,9 @@
   background-size: cover;
   
 }
+.contentbox{
+	display: flex;
+}
 
 nav{
    display: flex;
