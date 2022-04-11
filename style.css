@@ -11,7 +11,7 @@
   
   
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 500px) {
 .contentbox{
 	display: flex;
 }
@@ -87,7 +87,7 @@ h4{
 }
 .newsletter form{
 	width: 580px;
-	max-width: 100%;
+	max-width: 500px;
 	position: relative;
 }
 .newsletter form input:first-child{
